@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "Vazirmatn";
+    src: url('../fonts/webfonts/Vazirmatn-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+#time_entry_comments {
+    direction: rtl;
+}
+
+#news_title {
+    direction: rtl;
+}
+
+#project_name {
+    direction: rtl;
+}
+
+#project_identifier {
+    direction: rtl;
+}
+
+#project_homepage {
+    direction: rtl;
+}
+
+.description {
+    direction: rtl;
+}
+
+.contextual {
+    direction: ltr;
+    margin-left: auto;
+}
+
+#preview_content_text {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+.news-article {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#document_title {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#document_description {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#issue_notes {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#preview_issue_notes {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#page_title {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+#content_comments {
+    direction: rtl;
+    font-family: "Vazirmatn";
+}
+
+.wiki {
+    direction: rtl;
+}
+
+#content {
+    font-family: "Vazirmatn";
+}
+
+.subject>div>h3 {
+    direction: rtl;
+}
+
+.author {
+    direction: rtl;
+}
+
+#content_text {
+    font-family: "Vazirmatn";
+}
+
+.subtitle {
+    direction: rtl;
+}
+
+.contextual {
+    float: right;
+}
+
+.wiki.wiki-page {
+    direction: rtl;
+}
+
+#content>h2 {
+    direction: rtl;
+    margin-top: 50px !important;
+}
+
+.document-group.document-group-category {
+    direction: rtl;
+}
+
+.wiki.wiki-page>h1 {
+    padding-top: 50px !important;
+}
+
+.subject {
+    text-align: right !important;
+}
+
+.comments {
+    text-align: right !important;
+}
+
+#issue_subject {
+    direction: rtl;
+}
+
+textarea {
+    direction: rtl !important;
+}
+
+.issue.details>.subject {
+    padding-top: 30px;
+}
+
+.wiki-edit {
+    font-family: Vazirmatn;
+}
